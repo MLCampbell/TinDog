@@ -1,2 +1,2 @@
 # TinDog
-Tinder for dogs! Focusing on Bootstrap 4.0 fundamentals.
+Tinder for dogs! Pure HTML, CSS and Bootstrap 4.0.
